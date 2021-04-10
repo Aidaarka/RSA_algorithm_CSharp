@@ -1,0 +1,11 @@
+
+C:\Users\geneva\OneDrive\Desktop\RSA\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe.config
+C:\Users\geneva\OneDrive\Desktop\RSA\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe
+C:\Users\geneva\OneDrive\Desktop\RSA\protect_inf_LR1\bin\Debug\protect_inf_LR1.pdb
+C:\Users\geneva\OneDrive\Desktop\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.csprojAssemblyReference.cache
+C:\Users\geneva\OneDrive\Desktop\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.Form1.resources
+C:\Users\geneva\OneDrive\Desktop\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.Properties.Resources.resources
+C:\Users\geneva\OneDrive\Desktop\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.GenerateResource.cache
+C:\Users\geneva\OneDrive\Desktop\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.CoreCompileInputs.cache
+C:\Users\geneva\OneDrive\Desktop\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.exe
+C:\Users\geneva\OneDrive\Desktop\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.pdb
